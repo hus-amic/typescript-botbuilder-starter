@@ -1,0 +1,17 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanh Pham Van",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/restify": "^2.0.41",
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0",
+    "typings": "^2.1.0"
+  }
+}

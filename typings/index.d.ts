@@ -1,0 +1,1 @@
+/// <reference path="../dev/botbuilder.d.ts" />
